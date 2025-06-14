@@ -1,5 +1,5 @@
 <template>
     <div>
-        This is Nuxt
+        This is Nuxt js
     </div>
 </template>
