@@ -1,0 +1,10 @@
+<template>
+    <div>
+        <Header/>
+        <slot>
+            <Herobar/>
+            <NuxtPage/>
+        </slot>
+        <Footer/>
+    </div>
+</template>

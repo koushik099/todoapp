@@ -1,5 +1,13 @@
+<script setup lang="ts">
+definePageMeta({
+    layout:'default'
+})
+</script>
+
 <template>
     <div>
-        Hello World
+        <slot>
+            <Herobar/>
+        </slot>
     </div>
 </template>
