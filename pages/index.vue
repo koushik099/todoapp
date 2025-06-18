@@ -6,8 +6,6 @@ definePageMeta({
 
 <template>
     <div>
-        <slot>
-            <Herobar/>
-        </slot>
+    <Herobar/>
     </div>
 </template>
